@@ -5,7 +5,6 @@ class Letters extends Component {
     render() {
         return (
             <div>
-                <div>this is Letters</div>
                 <Letter />
             </div>
         )

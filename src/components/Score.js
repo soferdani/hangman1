@@ -3,7 +3,8 @@ import React, { Component } from 'react';
 class Score extends Component {
     render() {
         return (
-            <div>this is Score</div>
+            //this is also a score we manage
+            <div>100</div>
         )
     }
 }
